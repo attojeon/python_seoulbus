@@ -6,7 +6,6 @@
     - 강남역: 22339
 출력: 
     - 도착 버스 정보들
-
 '''
 import requests
 from urllib.parse import urlencode
